@@ -1,0 +1,14 @@
+container/home/yocto/xpi-imx8mm/.repo/
+container/home/yocto/xpi-imx8mm/README
+container/home/yocto/xpi-imx8mm/README-IMXBSP
+container/home/yocto/xpi-imx8mm/fsl-setup-release.sh
+container/home/yocto/xpi-imx8mm/setup-environment
+container/home/yocto/xpi-imx8mm/sources/base/
+container/home/yocto/xpi-imx8mm/sources/meta-browser/
+container/home/yocto/xpi-imx8mm/sources/meta-freescale-3rdparty/
+container/home/yocto/xpi-imx8mm/sources/meta-freescale-distro/
+container/home/yocto/xpi-imx8mm/sources/meta-freescale/
+container/home/yocto/xpi-imx8mm/sources/meta-fsl-bsp-release/
+container/home/yocto/xpi-imx8mm/sources/meta-openembedded/
+container/home/yocto/xpi-imx8mm/sources/meta-qt5/
+container/home/yocto/xpi-imx8mm/sources/poky/
