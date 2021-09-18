@@ -12,3 +12,11 @@ container/home/yocto/xpi-imx8mm/sources/meta-fsl-bsp-release/
 container/home/yocto/xpi-imx8mm/sources/meta-openembedded/
 container/home/yocto/xpi-imx8mm/sources/meta-qt5/
 container/home/yocto/xpi-imx8mm/sources/poky/
+container/home/yocto/xpi-imx8mm/sources/meta-compulab-bsp/
+container/home/yocto/xpi-imx8mm/sources/meta-compulab/
+container/home/yocto/xpi-imx8mm/build-xwayland/
+container/home/yocto/xpi-imx8mm/downloads/
+container/home/yocto/.bash_history
+container/home/yocto/.python-history
+container/home/yocto/.subversion/
+container/home/yocto/.wget-hsts
