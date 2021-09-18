@@ -16,7 +16,10 @@ container/home/yocto/xpi-imx8mm/sources/meta-python2/
 container/home/yocto/xpi-imx8mm/sources/meta-qt5/
 container/home/yocto/xpi-imx8mm/sources/meta-rust/
 container/home/yocto/xpi-imx8mm/sources/meta-timesys/
+container/home/yocto/xpi-imx8mm/sources/meta-compulab-bsp/
+container/home/yocto/xpi-imx8mm/sources/meta-compulab/
 container/home/yocto/xpi-imx8mm/sources/poky/
+container/home/yocto/xpi-imx8mm/build-xwayland/
 container/home/yocto/xpi-imx8mm/downloads/
 container/home/yocto/.bash_history
 container/home/yocto/.python-history
