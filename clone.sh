@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-BRANCHNAME=imx-linux-sumo
+BRANCHNAME=imx-linux-zeus
 SCRIPT_DIR=$(cd $(dirname $0); pwd)
 
 # Top dir of source
@@ -16,5 +16,5 @@ fi
 mkdir -p $YOCTO_DIR
 cd $YOCTO_DIR
 
-repo init -u git://source.codeaurora.org/external/imx/imx-manifest.git -b $BRANCHNAME -m imx-4.14.98-2.0.0_ga.xml
+repo init -u git://source.codeaurora.org/external/imx/imx-manifest.git -b $BRANCHNAME -m imx-5.4.70-2.3.4.xml
 repo sync -j$(nproc --all)

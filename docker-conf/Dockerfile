@@ -16,6 +16,7 @@ RUN apt-get update && apt-get autoremove --purge -y \
      locales \
      python-gobject-2 python-gtk2 \
      libgtk-3-0 libgtk-3-bin libgtk-3-common libgtk-3-dev python3-gi \
+     tree bison \
  && rm -rf /var/lib/apt/lists/*
 
 # Locales
